@@ -15,17 +15,11 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://pou4a.me",
   contact: {
     email: "Pouyapanahzadeh@gmail.com",
-    tel: "+49 157 322 90 336",
     social: [
       {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/pouya-panahzadeh",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/Pou4a",
-        icon: XIcon,
       },
       {
         name: "GitHub",
